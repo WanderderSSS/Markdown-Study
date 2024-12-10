@@ -1,3 +1,3 @@
-```
-var myVar = "Hello Dandelion!"
-```
+- [ ] Turn on GitHub Pages
+- [ ] Hello Dandelion!
+- [ ] Are u OK?
